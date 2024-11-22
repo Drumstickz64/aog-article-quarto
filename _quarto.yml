@@ -1,0 +1,19 @@
+project: 
+  output-dir: _out
+
+manuscript: 
+  article: index.qmd
+
+## Formats ##
+format:
+  aog-article-pdf:
+    keep-tex: true
+    # Set alternative fonts here
+    #mainfont: Baskerville
+    #sansfont: Futura-Medium
+
+## Bibliography meta-information ##
+reference-section-title: References # adjust name of reference section
+bibliography: bibliography.bib
+# You an also use a local CSL file
+csl: https://www.zotero.org/styles/apa

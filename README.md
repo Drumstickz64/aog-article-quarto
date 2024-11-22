@@ -7,7 +7,7 @@ This is my Quarto template to create a nice "published paper" quality PDF for sc
 To install this template as an extension for an existing document, run the following command in your project working directory:
 
 ```bash
-quarto install extension AaronGullickson/aog-article-quarto
+quarto install extension Drumstickz64/aog-article-quarto
 ```
 
 To your quarto document yaml, add:
@@ -28,7 +28,7 @@ quarto render article.qmd --to aog-article-pdf
 If you want to start a new article from the template or just check out the existing test document, run the following command:
 
 ```bash
-quarto use template AaronGullickson/aog-article-quarto
+quarto use template Drumstickz64/aog-article-quarto
 ```
 
 You can render the `template.qmd` provided to try it out.
