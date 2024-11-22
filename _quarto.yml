@@ -9,6 +9,8 @@ format:
     # Set alternative fonts here
     #mainfont: Baskerville
     #sansfont: Futura-Medium
+    # use twoside
+    #geometry: twoside
 
 ## Bibliography meta-information ##
 reference-section-title: References # adjust name of reference section
