@@ -1,13 +1,11 @@
 project: 
   output-dir: _out
 
-manuscript: 
-  article: index.qmd
-
 ## Formats ##
 format:
   aog-article-pdf:
-    keep-tex: true
+    toc: true
+    number-sections: true
     # Set alternative fonts here
     #mainfont: Baskerville
     #sansfont: Futura-Medium
