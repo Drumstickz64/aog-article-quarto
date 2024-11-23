@@ -9,6 +9,7 @@ format:
     # Set alternative fonts here
     mainfont: Cambria
     sansfont: Helvetica
+    linestretch: 1.5
     # use twoside
     #geometry: twoside
 
