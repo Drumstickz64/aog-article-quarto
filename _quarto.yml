@@ -1,17 +1,18 @@
-project: 
+project:
   output-dir: _out
 
 ## Formats ##
 format:
   aog-article-pdf:
-    toc: true
-    number-sections: true
     # Set alternative fonts here
     mainfont: Cambria
     sansfont: Helvetica
     linestretch: 1.5
     # use twoside
     #geometry: twoside
+
+toc: true
+number-sections: true
 
 ## Bibliography meta-information ##
 reference-section-title: References # adjust name of reference section
