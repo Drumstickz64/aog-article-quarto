@@ -7,8 +7,8 @@ format:
     toc: true
     number-sections: true
     # Set alternative fonts here
-    #mainfont: Baskerville
-    #sansfont: Futura-Medium
+    mainfont: Cambria
+    sansfont: Helvetica
     # use twoside
     #geometry: twoside
 
