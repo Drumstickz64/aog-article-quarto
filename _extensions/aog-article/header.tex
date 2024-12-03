@@ -20,19 +20,18 @@
 
 % Title
 \usepackage{titling}
-\pretitle{\par\begin{flushleft}\Huge\sffamily\bfseries}
-\posttitle{\par\end{flushleft}\vskip 10pt}
+\pretitle{\par\begin{center}\Huge\sffamily\bfseries}
+\posttitle{\par\end{center}\vskip 16pt}
 
 % Keywords
 \newenvironment{keywords}
-{\small\sffamily{\sffamily\small\bfseries{Keywords.}}}
+{\small\sffamily{\sffamily\small\bfseries{Keywords: }}}
 
 % Authors
 \usepackage{orcidlink}  % Create automatic ORCID icons/links
-%\renewcommand{\and}{\end{tabular} \hskip 3em \begin{tabular}[t]{@{\hspace{0em}}l@{}}}
-\preauthor{\begin{flushleft}
-           \lineskip 1.5em}
-\postauthor{\end{flushleft}}
+\renewcommand{\and}{\end{tabular} \hskip 3em \begin{tabular}[t]{@{\hspace{0em}}l@{}}}
+\preauthor{\begin{center}}
+\postauthor{\end{center}}
 
 % ------------------
 % Section headings

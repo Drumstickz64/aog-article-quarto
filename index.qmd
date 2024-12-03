@@ -1,18 +1,34 @@
 ---
-## Paper meta-information ##
-title: "Demo of the AOG Article Template"
-# shorttitle and shortauthors information will show in the header (not required)
-shorttitle: "AOG Template"
-shortauthors: Doe & Doe
-# keywords: []
+title: "Toward a Unified Theory of High-Energy Metaphysics: Silly String Theory"
+shorttitle: "String Theory"
+date: 2008-02-29
+shortauthors: "Me & You"
 author:
-  - name: John Doe
-    affiliations:
-      - id: uni
-        name: University of State
-        department: Department of Awesome
-abstract: |
-  Ipsum nostra facilisis sapien nullam. Facilisi himenaeos pharetra ultricies scelerisque non fusce quisque aliquam netus tellus. Dictum tellus et sociis quisque ornare ad a natoque magna blandit. Tortor duis aptent cursus lacus inceptos tristique magnis dictumst. Taciti varius nascetur aliquet hac ornare vitae ultricies. Rhoncus primis purus morbi aliquet quam cubilia nullam malesuada ridiculus.
+  - name: Josiah Carberry
+    id: jc
+    # orcid: 0000-0002-1825-0097
+    # email: josiah@psychoceramics.org
+    affiliation: 
+      - name: Brown University
+        city: Providence
+        state: RI
+        url: www.brown.edu
+abstract: > 
+  The characteristic theme of the works of Stone is 
+  the bridge between culture and society.
+keywords:
+  - Metaphysics
+  - String Theory
+license: "CC BY"
+copyright: 
+  holder: Josiah Carberry
+  year: 2008
+citation: 
+  container-title: Journal of Psychoceramics
+  volume: 1
+  issue: 1
+  doi: 10.5555/12345678
+funding: "The author received no specific funding for this work."
 ---
 
 ::: {#toc}
@@ -22,10 +38,4 @@ abstract: |
 
 # Introduction
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Posuere interdum ridiculus quis, suscipit potenti proin nibh. Facilisis elementum ut habitant justo vehicula litora commodo. Tempus sociosqu diam condimentum tortor senectus vulputate. Nullam aliquet duis odio faucibus praesent praesent. Nam faucibus potenti primis dignissim ante convallis neque. Accumsan ultrices ultrices vestibulum nullam nullam; sodales efficitur. Tristique ut penatibus donec interdum placerat sed nostra. Himenaeos inceptos lobortis nostra purus curae.
-
-Iaculis ridiculus accumsan velit; fames vivamus donec vitae. Ornare efficitur ut fusce primis lorem lectus magna eu. Penatibus efficitur ornare viverra lacus posuere enim praesent iaculis. Odio adipiscing dis placerat; volutpat duis malesuada facilisis. Molestie malesuada natoque facilisis est curabitur scelerisque malesuada. Feugiat ornare enim non porttitor natoque egestas. Tempor cubilia a purus senectus dignissim laoreet nibh. Consequat sed viverra phasellus elit netus libero libero congue. Nec faucibus sodales sed lobortis eget consequat lacus netus. Proin litora amet curabitur tristique libero magnis senectus.
-
-Egestas interdum at semper augue penatibus per; convallis nunc. Euismod orci felis ullamcorper turpis amet consequat potenti accumsan. Phasellus vulputate inceptos nostra lobortis nulla potenti lobortis enim. Dignissim lobortis convallis malesuada conubia nunc aliquet tellus; class nibh. Velit urna luctus sodales feugiat potenti blandit. Per habitasse vehicula ridiculus dis auctor porta. Elit habitasse nisi quisque litora; molestie vitae. Eget gravida purus et fringilla at ridiculus tincidunt.
-
-Eleifend parturient hendrerit nostra rhoncus aliquam eleifend erat. Orci id amet bibendum gravida nec. Natoque venenatis sed vehicula orci quam sed. Elit consectetur finibus per parturient tempus integer venenatis diam. Nisi dis mus non eros consequat. Justo odio commodo nostra maximus facilisi. Natoque himenaeos efficitur a urna ex.
+{{< lipsum 5 >}}
